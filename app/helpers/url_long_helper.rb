@@ -1,0 +1,2 @@
+module UrlLongHelper
+end

@@ -3,6 +3,9 @@ Rails.application.routes.draw do
 
   get '/contact' => 'site#contact'
 
+  resources :url_longs do
+  end
+
 
 
 end
